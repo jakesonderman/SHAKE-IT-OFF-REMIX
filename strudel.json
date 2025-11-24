@@ -1,1 +1,65 @@
-{"shakeItOff":["/Acapella93Bar.mp3"],"breaks":["/breaks/BB3_100_drum_break_paprika.wav","/breaks/STCR2_JNG_174_Drum_Break_Warp.wav","/breaks/TSP_ENEIV2_172_kit_head_break_no_sidechain_D#.wav","/breaks/TSP_TJDV2_174_drum_layered_break_tonaljungle.wav","/breaks/shs_ins_180_drum_break_loop_Holster_1_full.wav"],"clap":["/clap/IT_Kit_4_Clap_Gm_126.wav","/clap/ff_it_clap_zero.wav"],"hardKik":["/hardKik/AU_HC2_hard_kick_stifling_A.wav","/hardKik/STCR2_HRH_Distorted_Kick_Abounding_F.wav","/hardKik/STCR2_HRH_Distorted_Kick_Professional_G.wav","/hardKik/STCR2_HRH_Distorted_Kick_Stocked_G#.wav","/hardKik/STCR2_HRH_Distorted_Kick_Top_Tail_Control_A.wav"],"industrial":["/industrial/MO_KVRI_kick_hooves.wav","/industrial/ZEN_PUM_150_drum_no_kick_dancy.wav","/industrial/ZEN_PUM_kick_filtered_bumpy.wav","/industrial/ZEN_PUM_kick_filtered_industrial.wav","/industrial/rgd_kick_industrial.wav"],"industrialTops":["/industrialTops/IT_Drum_Loop_16_Top_Loop_135.wav","/industrialTops/IT_Top_Loop_06_135.wav","/industrialTops/IT_Top_Loop_08_135.wav","/industrialTops/IT_Top_Loop_10_135.wav","/industrialTops/IT_Top_Loop_11_135.wav","/industrialTops/IT_Top_Loop_12_135.wav","/industrialTops/IT_Top_Loop_20_135.wav"],"kick":["/kick/MARS_909_kick_color_fat_long_hi_hard.wav"],"metallics":["/metallics/MO_APU_snare_balloon.wav","/metallics/MO_APU_snare_glock.wav","/metallics/MO_APU_snare_maze.wav","/metallics/MO_APU_snare_sting.wav"],"motorcycle":["/motorcycle/MotorcycleAway_BWU.465.wav","/motorcycle/SPLC-0203_FX_Oneshot_Motorcycle_Engine_Passby.wav"],"sn":["/sn/MO_RO_snare_clap_techy.wav"],"sounds":["/sounds/FF_HN_foley_theatre_crowd_gasp.wav","/sounds/MO_BOOTY_vocal_bounce_phone_receiver.wav"],"vox":["/vox/CAPPA_vocal_loop_reason_choruslead_wet_70_Abmaj.wav","/vox/CAPPA_vocal_loop_reason_fullacapella_wet_70_Abmaj.wav"],"_base":"http://localhost:5432"}
+{
+  "shakeItOff": [
+    "/Acapella93Bar.mp3"
+  ],
+  "breaks": [
+    "/breaks/BB3_100_drum_break_paprika.wav",
+    "/breaks/STCR2_JNG_174_Drum_Break_Warp.wav",
+    "/breaks/TSP_ENEIV2_172_kit_head_break_no_sidechain_D#.wav",
+    "/breaks/TSP_TJDV2_174_drum_layered_break_tonaljungle.wav",
+    "/breaks/shs_ins_180_drum_break_loop_Holster_1_full.wav"
+  ],
+  "clap": [
+    "/clap/IT_Kit_4_Clap_Gm_126.wav",
+    "/clap/ff_it_clap_zero.wav"
+  ],
+  "hardKik": [
+    "/hardKik/AU_HC2_hard_kick_stifling_A.wav",
+    "/hardKik/STCR2_HRH_Distorted_Kick_Abounding_F.wav",
+    "/hardKik/STCR2_HRH_Distorted_Kick_Professional_G.wav",
+    "/hardKik/STCR2_HRH_Distorted_Kick_Stocked_G#.wav",
+    "/hardKik/STCR2_HRH_Distorted_Kick_Top_Tail_Control_A.wav"
+  ],
+  "industrial": [
+    "/industrial/MO_KVRI_kick_hooves.wav",
+    "/industrial/ZEN_PUM_150_drum_no_kick_dancy.wav",
+    "/industrial/ZEN_PUM_kick_filtered_bumpy.wav",
+    "/industrial/ZEN_PUM_kick_filtered_industrial.wav",
+    "/industrial/rgd_kick_industrial.wav"
+  ],
+  "industrialTops": [
+    "/industrialTops/IT_Drum_Loop_16_Top_Loop_135.wav",
+    "/industrialTops/IT_Top_Loop_06_135.wav",
+    "/industrialTops/IT_Top_Loop_08_135.wav",
+    "/industrialTops/IT_Top_Loop_10_135.wav",
+    "/industrialTops/IT_Top_Loop_11_135.wav",
+    "/industrialTops/IT_Top_Loop_12_135.wav",
+    "/industrialTops/IT_Top_Loop_20_135.wav"
+  ],
+  "kick": [
+    "/kick/MARS_909_kick_color_fat_long_hi_hard.wav"
+  ],
+  "metallics": [
+    "/metallics/MO_APU_snare_balloon.wav",
+    "/metallics/MO_APU_snare_glock.wav",
+    "/metallics/MO_APU_snare_maze.wav",
+    "/metallics/MO_APU_snare_sting.wav"
+  ],
+  "motorcycle": [
+    "/motorcycle/MotorcycleAway_BWU.465.wav",
+    "/motorcycle/SPLC-0203_FX_Oneshot_Motorcycle_Engine_Passby.wav"
+  ],
+  "sn": [
+    "/sn/MO_RO_snare_clap_techy.wav"
+  ],
+  "sounds": [
+    "/sounds/FF_HN_foley_theatre_crowd_gasp.wav",
+    "/sounds/MO_BOOTY_vocal_bounce_phone_receiver.wav"
+  ],
+  "vox": [
+    "/vox/CAPPA_vocal_loop_reason_choruslead_wet_70_Abmaj.wav",
+    "/vox/CAPPA_vocal_loop_reason_fullacapella_wet_70_Abmaj.wav"
+  ],
+  "_base": "http://localhost:5432",
+  "defaultBPM": 170
+}
