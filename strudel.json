@@ -1,0 +1,24 @@
+{
+  "name": "SHAKE-IT-OFF-REMIX",
+  "version": "1.0.0",
+  "description": "Live coding remix of Shake it off by Taylor Swift",
+  "samplePath": ".",
+  "samples": {
+    "breaks": "./breaks",
+    "clap": "./clap",
+    "hardKik": "./hardKik",
+    "industrial": "./industrial",
+    "industrialTops": "./industrialTops",
+    "kick": "./kick",
+    "metallics": "./metallics",
+    "motorcycle": "./motorcycle",
+    "sn": "./sn",
+    "sounds": "./sounds",
+    "vox": "./vox"
+  },
+  "defaultBPM": 93,
+  "audio": {
+    "sampleRate": 44100
+  }
+}
+
