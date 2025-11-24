@@ -16,7 +16,7 @@
     "sounds": "./sounds",
     "vox": "./vox"
   },
-  "defaultBPM": 93,
+  "bpm": 170,
   "audio": {
     "sampleRate": 44100
   }
