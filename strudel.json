@@ -1,4 +1,5 @@
 {
+  "base": "https://raw.githubusercontent.com/jakesonderman/shake-it-off-remix/main/",
   "shakeItOff": [
     "/Acapella93Bar.mp3"
   ],
