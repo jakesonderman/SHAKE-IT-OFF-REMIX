@@ -60,6 +60,5 @@
     "/vox/CAPPA_vocal_loop_reason_choruslead_wet_70_Abmaj.wav",
     "/vox/CAPPA_vocal_loop_reason_fullacapella_wet_70_Abmaj.wav"
   ],
-  "_base": "http://localhost:5432",
   "defaultBPM": 170
 }
