@@ -1,6 +1,7 @@
 //"shake it off ARRANGE" @by sundy
 await (async () => { (0, eval)(await (await fetch('https://raw.githubusercontent.com/switchangel/strudel-scripts/refs/heads/main/allscripts.js')).text()); })();
 //above line by bastibl
+samples('https://raw.githubusercontent.com/jakesonderman/SHAKE-IT-OFF-REMIX/main/strudel.json?version=2')
 setcpm(170/4)
 const key = "Ab:major"
 
